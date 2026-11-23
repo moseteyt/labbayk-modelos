@@ -1,0 +1,16 @@
+{
+  "name": "talqin_stream_v1_1",
+  "version": "v1.1",
+  "riwayah": "warsh",
+  "sample_rate": 16000,
+  "files": {
+    "model.int8.onnx": {
+      "size": 26484369,
+      "sha256": "98e32d735661baee2486fd90e36726e07e2a9e5a854c5c096feab7d5632db499"
+    },
+    "tokens.txt": {
+      "size": 375,
+      "sha256": "b8944ba102447d7feba5400ba59983ecddb329b239106e5900535be940050808"
+    }
+  }
+}

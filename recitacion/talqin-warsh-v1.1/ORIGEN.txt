@@ -1,0 +1,3 @@
+Copia sin modificar de https://huggingface.co/talqin/talqin-stream-warsh (versión v1.1, commit e147b7ed3e9d61e5fec6140a06828ea9a732d11f).
+Licencia Apache 2.0, hecho por Talqin (https://github.com/TalqinCore). README.md es el suyo.
+Lo usa Labbayk para seguir la recitación del usuario en el propio móvil (Hafs y Warsh). La app comprueba el SHA-256 de cada archivo.
