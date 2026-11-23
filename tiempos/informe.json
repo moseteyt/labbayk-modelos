@@ -1,0 +1,56 @@
+{
+ "Alafasy_64kbps": {
+  "carpeta": "afasy",
+  "palabras": 77432,
+  "sin_tiempo": 258,
+  "suras_mal": []
+ },
+ "Abdul_Basit_Murattal_64kbps": {
+  "carpeta": "abdulbasit",
+  "palabras": 77432,
+  "sin_tiempo": 1836,
+  "suras_mal": []
+ },
+ "Husary_64kbps": {
+  "carpeta": "husary",
+  "palabras": 77432,
+  "sin_tiempo": 27,
+  "suras_mal": []
+ },
+ "Minshawy_Murattal_128kbps": {
+  "carpeta": "minshawi",
+  "palabras": 77432,
+  "sin_tiempo": 72,
+  "suras_mal": []
+ },
+ "Abdurrahmaan_As-Sudais_64kbps": {
+  "carpeta": "sudais",
+  "palabras": 77432,
+  "sin_tiempo": 78,
+  "suras_mal": []
+ },
+ "Saood_ash-Shuraym_64kbps": {
+  "carpeta": "shuraim",
+  "palabras": 77432,
+  "sin_tiempo": 103,
+  "suras_mal": []
+ },
+ "Abu_Bakr_Ash-Shaatree_64kbps": {
+  "carpeta": "shatri",
+  "palabras": 77432,
+  "sin_tiempo": 644,
+  "suras_mal": []
+ },
+ "Husary_Muallim_128kbps": {
+  "carpeta": "husary-muallim",
+  "palabras": 77432,
+  "sin_tiempo": 39,
+  "suras_mal": []
+ },
+ "Yasser_Ad-Dussary_128kbps": {
+  "carpeta": "dussary",
+  "palabras": 77432,
+  "sin_tiempo": 20,
+  "suras_mal": []
+ }
+}
