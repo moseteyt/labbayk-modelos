@@ -1,0 +1,458 @@
+{
+"1": {
+"error_medio": 0.026,
+"aleyas_repartidas": 0
+},
+"2": {
+"error_medio": 0.105,
+"aleyas_repartidas": 2
+},
+"3": {
+"error_medio": 0.094,
+"aleyas_repartidas": 1
+},
+"4": {
+"error_medio": 0.505,
+"aleyas_repartidas": 133
+},
+"5": {
+"error_medio": 0.113,
+"aleyas_repartidas": 1
+},
+"6": {
+"error_medio": 0.096,
+"aleyas_repartidas": 0
+},
+"7": {
+"error_medio": 0.094,
+"aleyas_repartidas": 0
+},
+"8": {
+"error_medio": 0.112,
+"aleyas_repartidas": 0
+},
+"9": {
+"error_medio": 0.142,
+"aleyas_repartidas": 1
+},
+"10": {
+"error_medio": 0.105,
+"aleyas_repartidas": 1
+},
+"11": {
+"error_medio": 0.112,
+"aleyas_repartidas": 2
+},
+"12": {
+"error_medio": 0.093,
+"aleyas_repartidas": 0
+},
+"13": {
+"error_medio": 0.095,
+"aleyas_repartidas": 0
+},
+"14": {
+"error_medio": 0.101,
+"aleyas_repartidas": 0
+},
+"15": {
+"error_medio": 0.048,
+"aleyas_repartidas": 0
+},
+"16": {
+"error_medio": 0.104,
+"aleyas_repartidas": 0
+},
+"17": {
+"error_medio": 0.068,
+"aleyas_repartidas": 0
+},
+"18": {
+"error_medio": 0.07,
+"aleyas_repartidas": 0
+},
+"19": {
+"error_medio": 0.08,
+"aleyas_repartidas": 1
+},
+"20": {
+"error_medio": 0.078,
+"aleyas_repartidas": 1
+},
+"21": {
+"error_medio": 0.084,
+"aleyas_repartidas": 1
+},
+"22": {
+"error_medio": 0.099,
+"aleyas_repartidas": 0
+},
+"23": {
+"error_medio": 0.064,
+"aleyas_repartidas": 0
+},
+"24": {
+"error_medio": 0.138,
+"aleyas_repartidas": 0
+},
+"25": {
+"error_medio": 0.082,
+"aleyas_repartidas": 1
+},
+"26": {
+"error_medio": 0.046,
+"aleyas_repartidas": 1
+},
+"27": {
+"error_medio": 0.088,
+"aleyas_repartidas": 0
+},
+"28": {
+"error_medio": 0.113,
+"aleyas_repartidas": 2
+},
+"29": {
+"error_medio": 0.092,
+"aleyas_repartidas": 1
+},
+"30": {
+"error_medio": 0.102,
+"aleyas_repartidas": 1
+},
+"31": {
+"error_medio": 0.109,
+"aleyas_repartidas": 1
+},
+"32": {
+"error_medio": 0.104,
+"aleyas_repartidas": 1
+},
+"33": {
+"error_medio": 0.129,
+"aleyas_repartidas": 1
+},
+"34": {
+"error_medio": 0.111,
+"aleyas_repartidas": 0
+},
+"35": {
+"error_medio": 0.106,
+"aleyas_repartidas": 0
+},
+"36": {
+"error_medio": 0.071,
+"aleyas_repartidas": 1
+},
+"37": {
+"error_medio": 0.032,
+"aleyas_repartidas": 0
+},
+"38": {
+"error_medio": 0.068,
+"aleyas_repartidas": 0
+},
+"39": {
+"error_medio": 0.098,
+"aleyas_repartidas": 2
+},
+"40": {
+"error_medio": 0.088,
+"aleyas_repartidas": 1
+},
+"41": {
+"error_medio": 0.108,
+"aleyas_repartidas": 1
+},
+"42": {
+"error_medio": 0.116,
+"aleyas_repartidas": 2
+},
+"43": {
+"error_medio": 0.088,
+"aleyas_repartidas": 1
+},
+"44": {
+"error_medio": 0.061,
+"aleyas_repartidas": 1
+},
+"45": {
+"error_medio": 0.113,
+"aleyas_repartidas": 1
+},
+"46": {
+"error_medio": 0.148,
+"aleyas_repartidas": 1
+},
+"47": {
+"error_medio": 0.096,
+"aleyas_repartidas": 0
+},
+"48": {
+"error_medio": 0.081,
+"aleyas_repartidas": 0
+},
+"49": {
+"error_medio": 0.115,
+"aleyas_repartidas": 0
+},
+"50": {
+"error_medio": 0.055,
+"aleyas_repartidas": 0
+},
+"51": {
+"error_medio": 0.042,
+"aleyas_repartidas": 0
+},
+"52": {
+"error_medio": 0.062,
+"aleyas_repartidas": 0
+},
+"53": {
+"error_medio": 0.051,
+"aleyas_repartidas": 1
+},
+"54": {
+"error_medio": 0.07,
+"aleyas_repartidas": 0
+},
+"55": {
+"error_medio": 0.04,
+"aleyas_repartidas": 0
+},
+"56": {
+"error_medio": 0.064,
+"aleyas_repartidas": 0
+},
+"57": {
+"error_medio": 0.098,
+"aleyas_repartidas": 0
+},
+"58": {
+"error_medio": 0.133,
+"aleyas_repartidas": 0
+},
+"59": {
+"error_medio": 0.117,
+"aleyas_repartidas": 0
+},
+"60": {
+"error_medio": 0.177,
+"aleyas_repartidas": 0
+},
+"61": {
+"error_medio": 0.118,
+"aleyas_repartidas": 0
+},
+"62": {
+"error_medio": 0.125,
+"aleyas_repartidas": 1
+},
+"63": {
+"error_medio": 0.138,
+"aleyas_repartidas": 1
+},
+"64": {
+"error_medio": 0.103,
+"aleyas_repartidas": 0
+},
+"65": {
+"error_medio": 0.136,
+"aleyas_repartidas": 0
+},
+"66": {
+"error_medio": 0.129,
+"aleyas_repartidas": 1
+},
+"67": {
+"error_medio": 0.073,
+"aleyas_repartidas": 0
+},
+"68": {
+"error_medio": 0.044,
+"aleyas_repartidas": 0
+},
+"69": {
+"error_medio": 0.05,
+"aleyas_repartidas": 0
+},
+"70": {
+"error_medio": 0.052,
+"aleyas_repartidas": 0
+},
+"71": {
+"error_medio": 0.09,
+"aleyas_repartidas": 0
+},
+"72": {
+"error_medio": 0.101,
+"aleyas_repartidas": 0
+},
+"73": {
+"error_medio": 0.039,
+"aleyas_repartidas": 0
+},
+"74": {
+"error_medio": 0.059,
+"aleyas_repartidas": 1
+},
+"75": {
+"error_medio": 0.063,
+"aleyas_repartidas": 0
+},
+"76": {
+"error_medio": 0.059,
+"aleyas_repartidas": 0
+},
+"77": {
+"error_medio": 0.055,
+"aleyas_repartidas": 0
+},
+"78": {
+"error_medio": 0.053,
+"aleyas_repartidas": 0
+},
+"79": {
+"error_medio": 0.046,
+"aleyas_repartidas": 0
+},
+"80": {
+"error_medio": 0.066,
+"aleyas_repartidas": 0
+},
+"81": {
+"error_medio": 0.037,
+"aleyas_repartidas": 0
+},
+"82": {
+"error_medio": 0.024,
+"aleyas_repartidas": 0
+},
+"83": {
+"error_medio": 0.037,
+"aleyas_repartidas": 0
+},
+"84": {
+"error_medio": 0.049,
+"aleyas_repartidas": 0
+},
+"85": {
+"error_medio": 0.056,
+"aleyas_repartidas": 0
+},
+"86": {
+"error_medio": 0.039,
+"aleyas_repartidas": 0
+},
+"87": {
+"error_medio": 0.039,
+"aleyas_repartidas": 0
+},
+"88": {
+"error_medio": 0.046,
+"aleyas_repartidas": 0
+},
+"89": {
+"error_medio": 0.043,
+"aleyas_repartidas": 0
+},
+"90": {
+"error_medio": 0.062,
+"aleyas_repartidas": 0
+},
+"91": {
+"error_medio": 0.05,
+"aleyas_repartidas": 0
+},
+"92": {
+"error_medio": 0.042,
+"aleyas_repartidas": 0
+},
+"93": {
+"error_medio": 0.058,
+"aleyas_repartidas": 0
+},
+"94": {
+"error_medio": 0.013,
+"aleyas_repartidas": 0
+},
+"95": {
+"error_medio": 0.054,
+"aleyas_repartidas": 0
+},
+"96": {
+"error_medio": 0.047,
+"aleyas_repartidas": 0
+},
+"97": {
+"error_medio": 0.063,
+"aleyas_repartidas": 0
+},
+"98": {
+"error_medio": 0.123,
+"aleyas_repartidas": 0
+},
+"99": {
+"error_medio": 0.054,
+"aleyas_repartidas": 0
+},
+"100": {
+"error_medio": 0.021,
+"aleyas_repartidas": 0
+},
+"101": {
+"error_medio": 0.036,
+"aleyas_repartidas": 0
+},
+"102": {
+"error_medio": 0.056,
+"aleyas_repartidas": 0
+},
+"103": {
+"error_medio": 0.084,
+"aleyas_repartidas": 0
+},
+"104": {
+"error_medio": 0.09,
+"aleyas_repartidas": 0
+},
+"105": {
+"error_medio": 0.042,
+"aleyas_repartidas": 0
+},
+"106": {
+"error_medio": 0.062,
+"aleyas_repartidas": 0
+},
+"107": {
+"error_medio": 0.018,
+"aleyas_repartidas": 0
+},
+"108": {
+"error_medio": 0.014,
+"aleyas_repartidas": 0
+},
+"109": {
+"error_medio": 0.037,
+"aleyas_repartidas": 0
+},
+"110": {
+"error_medio": 0.034,
+"aleyas_repartidas": 0
+},
+"111": {
+"error_medio": 0.048,
+"aleyas_repartidas": 0
+},
+"112": {
+"error_medio": 0.103,
+"aleyas_repartidas": 0
+},
+"113": {
+"error_medio": 0.05,
+"aleyas_repartidas": 0
+},
+"114": {
+"error_medio": 0.036,
+"aleyas_repartidas": 0
+}
+}
